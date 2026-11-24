@@ -1,0 +1,18 @@
+{"titulos":[
+  {"linea":1,"texto":"SACUDE EL AGUA","color_palabra":{"AGUA":"#4DA6FF"}},
+  {"linea":2,"texto":"2,450 MILLONES","color_palabra":{"2,450":"#FFD23A"}},
+  {"linea":3,"texto":"MAGNETRÓN","color_palabra":{"MAGNETRÓN":"#FF9A4D"}},
+  {"linea":6,"texto":"MICROONDAS","color_palabra":{"MICROONDAS":"#FFD23A"}},
+  {"linea":8,"texto":"+ Y −","color_palabra":{"+":"#4DA6FF","−":"#FF5A4D"}},
+  {"linea":10,"texto":"CALOR","color_palabra":{"CALOR":"#FF8A3D"}},
+  {"linea":12,"texto":"AGUJEROS DIMINUTOS","color_palabra":{"DIMINUTOS":"#FFD23A"}}],
+ "etiquetas":[
+  {"desde":15.2,"hasta":17.2,"texto":"COBRE","ancla":[720,968],"punta":[880,820]},
+  {"desde":17.4,"hasta":19.5,"texto":"IMANES","ancla":[820,507],"punta":[880,640]},
+  {"desde":20.0,"hasta":22.6,"texto":"ELECTRONES","ancla":[626,891],"punta":[820,700]},
+  {"desde":29.1,"hasta":31.2,"texto":"GUÍA DE ONDA","ancla":[816,800],"punta":[820,640]},
+  {"desde":48.0,"hasta":49.9,"texto":"PLATO SECO","ancla":[895,1120],"punta":[860,880]},
+  {"desde":50.3,"hasta":51.9,"texto":"SOPA","ancla":[361,1083],"punta":[300,880]}],
+ "destellos":[14.16,28.71,33.69,47.44],
+ "colores_subtitulo":{"agua":"#4DA6FF","calor":"#FF8A3D","cobre":"#FF9A4D"},
+ "palabras_clave":["microondas","magnetrón","electrones","sopa","rejilla","ondas"]}

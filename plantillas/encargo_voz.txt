@@ -1,0 +1,51 @@
+ENCARGO DE VOZ – "<TÍTULO DEL VIDEO>"
+Uso: narración de un video vertical de ~60 segundos.
+
+========================================
+1) VOZ
+========================================
+- <Género>, <rango de edad> años.
+- <Idioma> con acento <acento> (suave, sin regionalismos marcados).
+- Timbre <medio-grave / medio>, cálido, cercano.
+- Actitud: alguien que sabe mucho y te cuenta un secreto; curioso, con media sonrisa.
+  NO tono de comercial, NO "épico", NO gritado.
+- Ritmo: 155–165 palabras por minuto; algo más rápido en listas, más lento en datos de escala y en el remate.
+- Duración objetivo: 58–62 segundos.
+
+========================================
+2) REGLAS DE LECTURA
+========================================
+- "…" = pausa de ~0.4 s.   "." = pausa de ~0.25 s.
+- *palabra* = énfasis ligero (no leer los asteriscos).
+- Pausas clave obligatorias: <antes de …>, <antes de …>.
+- Entonación: <línea 01: casi en confidencia>; <línea del giro: seca y lenta>; <última línea: hacia arriba>.
+- Pronunciación de términos técnicos: <término (sí-la-ba TÓ-ni-ca)>.
+
+========================================
+3) GUION CON MARCAS
+========================================
+[01] …
+[02] …
+[03] …
+[04] …
+[05] …
+[06] …
+[07] …
+[08] …
+[09] …
+[10] …
+[11] …
+[12] …
+
+========================================
+4) GUION LIMPIO (texto plano)
+========================================
+<mismas 12 líneas sin numeración ni asteriscos>
+
+========================================
+5) ENTREGA
+========================================
+- WAV 48 kHz mono (si no hay WAV: MP3 320 kbps).
+- Sin música, sin efectos, sin reverberación; voz seca y limpia; picos ≈ −3 dB.
+- Toma A: ritmo normal.  Toma B: ~5 % más rápida.
+- Un archivo por línea: 01.wav … 12.wav (además de la toma completa).
